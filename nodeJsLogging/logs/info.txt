@@ -1,0 +1,13 @@
+2023-03-14T19:15:39.365Z || info || Request path => /
+2023-03-14T19:17:59.564Z || info || Request path => /create
+2023-03-14T19:17:59.565Z || error || Error => Error
+2023-03-14T19:18:10.914Z || info || Request path => /
+2023-03-14T19:19:04.041Z || info || Request path => /
+2023-03-14T19:19:06.121Z || info || Request path => /create || body => [object Object]
+2023-03-14T19:19:06.121Z || error || Error => Error
+2023-03-14T19:19:47.600Z || info || Request path => /create || body => 1678821587599
+2023-03-14T19:19:47.602Z || error || Error => Error
+2023-03-14T19:20:25.908Z || info || Request path => /create || body => [ { id:1678821625907, name:test } ]
+2023-03-14T19:20:25.910Z || error || Error => Error
+2023-03-14T19:20:50.123Z || info || Request path => /create || body => [ { id:1678821650122, name:test } ]
+2023-03-14T19:20:50.124Z || error || Error => Error: Belirlenemeyen bir hata
